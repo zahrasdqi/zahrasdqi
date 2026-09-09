@@ -1,6 +1,6 @@
 <div align="center">
   <!-- لینک عکس بنر فیگمای خود را در قسمت src قرار دهید -->
-  <img src="https://via.placeholder.com/1500x500/15203B/FF6B00?text=Zahra+Sadeghi+-+Frontend+%26+UI/UX" alt="Zahra Sadeghi Banner" width="100%" />
+ 
 </div>
 
 # 👨‍💻 Hi there, I'm Zahra Sadeghi
@@ -34,8 +34,7 @@ I am a developer and designer passionate about creating beautiful, pixel-perfect
 
 <p align="center">
   <!-- عبارت YOUR_GITHUB_USERNAME را با یوزرنیم واقعی خود جایگزین کنید -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zahrasdqi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=15203B&title_color=FF6B00&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrasdqi&layout=compact&theme=tokyonight&hide_border=true&bg_color=15203B&title_color=FF6B00&text_color=ffffff" alt="Top Languages" />
+
 </p>
 
 ---
